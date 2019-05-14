@@ -1,2 +1,2 @@
 # 911-calls
-911 Calls Data Capstone Project analyzing some 911 call data from Kaggle
+This project analyses some 911 call data from Kaggle
